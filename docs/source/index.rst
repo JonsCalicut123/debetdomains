@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Debet - Nhà Cái Cá Cược Thể thao Hàng Đầu Quốc tế 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Debet <https://debet.domains/>`_ là một trong những nhà cái lâu đời và uy tín nhất trong ngành cá cược, được thành lập tại Philippines vào năm 2006. Với hơn 18 năm kinh nghiệm, Debet đã xây dựng được danh tiếng vững chắc và hiện hoạt động rộng rãi tại châu Á với hơn 10 triệu thành viên. Debet được cấp phép bởi các tổ chức uy tín như MGA Malta và Ủy ban giám sát GC, đảm bảo tính pháp lý và bảo mật cao cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Debet cung cấp một loạt các sản phẩm giải trí, bao gồm live casino, thể thao, slot game, bắn cá, và xổ số, với các phương thức thanh toán linh hoạt và quy trình xử lý nhanh chóng. Debet được thiết kế với giao diện đẹp mắt, dễ sử dụng và cung cấp nhiều khuyến mãi hấp dẫn như code 58k, hoàn trả 2%, và quà sinh nhật VIP. Đội ngũ chăm sóc khách hàng của Debet hoạt động 24/7, luôn sẵn sàng hỗ trợ người chơi.
 
-.. note::
+Debet không ngừng đổi mới và nâng cao chất lượng dịch vụ để giữ vững vị thế trên thị trường, cung cấp trải nghiệm cá cược đỉnh cao và hấp dẫn cho mọi người chơi.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: Đ. Tân Thới Nhất 02/4 81, Khu phố 7, Quận 12, Hồ Chí Minh, Vietnam. 
 
-.. toctree::
+Phone: 0789515447. 
 
-   usage
-   api
+Email: info@debet.domains. 
+
+Website: https://debet.domains/ 
+
+#debet #nhacai_debet #trangchu_debet #dangky_debet #link_debet #link_vao_debet
